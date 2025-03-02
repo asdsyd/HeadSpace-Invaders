@@ -2,6 +2,8 @@
 
 HeadSpace Invaders is an interactive game that combines real-time face tracking using OpenCV with a classic Space Invaders–style game built with Pygame. In this project, your face controls the spaceship's horizontal movement, and you can shoot bullets (using the Space key) to destroy enemies. The game features three enemies that move horizontally, bounce off the screen edges, and descend toward your spaceship—raising the stakes as they gradually increase in speed.
 
+https://github.com/user-attachments/assets/04d5eb8a-7b65-4fe8-a9a8-6bdf042804ef
+
 ## Features
 
 - **Face Tracking Control:**  
